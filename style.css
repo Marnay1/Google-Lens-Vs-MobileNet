@@ -1,0 +1,14 @@
+.test_image_and_result{
+    background-color: gray;
+    border-radius: 10px;
+}
+hr{
+    color: black;
+}
+.margin{
+    margin-top: 200px;
+    margin-bottom: 200px;
+}
+.gt{
+    font-size: 30px;
+}
