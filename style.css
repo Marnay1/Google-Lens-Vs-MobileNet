@@ -12,3 +12,6 @@ hr{
 .gt{
     font-size: 30px;
 }
+ol{
+    list-style-type: none;
+}
